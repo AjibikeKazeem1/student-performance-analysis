@@ -23,7 +23,7 @@ Can we analyze and predict student performance using academic, demographic, and 
 
 ## Dataset 
 
-We will use the **UCI Student Performance Dataset** or similar academic data (CSV/Excel). 
+We will use the **UCI Student Performance Dataset (CSV).** 
 
 ## Project Structure
 
