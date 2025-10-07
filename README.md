@@ -1,6 +1,8 @@
-# Student Performance Analysis
+# Student Performance Analysis Using [Excel, Python, Power BI]
 
-Analyze and predict student performance using academic, demographic, and behavioral data.
+## Project Description
+This project explores the relationship between academic, demographic, and behavioral factor 
+on student performace using data analysis and visualization tools.
 
 ## Problem Statement 
 
@@ -9,7 +11,8 @@ Can we analyze and predict student performance using academic, demographic, and 
 
 ##  Objectives 
 
-- Analyze student academic, demographic, and behavioral data. 
+- Analyze student academic, demographic, and behavioral data.
+- Identify key factors influencing grades.
 - Build predictive models to forecast performance.
 - Provide actionable insights for educators and policymakers.
 
@@ -20,8 +23,15 @@ Can we analyze and predict student performance using academic, demographic, and 
 - Improve teaching strategies. 
 - Recommend personalized learning plans.
 
+## Tools and Technologies Used
+- Python (Pandas, Matplotlib, Seaborn)
+- Excel 
+- Power BI
+- Jupyter Notebook
+- Git and GitHub
 
-## Dataset 
+
+## Data source 
 
 We will use the **Kaggle Student Performance Dataset (CSV).** 
 
@@ -29,15 +39,16 @@ We will use the **Kaggle Student Performance Dataset (CSV).**
 
 - `data/` - raw and processed datasets 
 - `notebooks/` - Jupyter notebooks (EDA, modeling, evaluation)
-- `scripts/` - reusable Python scripts 
+- `scripts/` - reusable Python scripts
+- `visualizations/` - visuals  
 - `models/` - trained models 
-- `reports/` - findings and visuals 
+- `reports/` - findings
+- `dashboard/` - Power BI or screenshots 
 
-## How to Run
+## Key Insights 
 
-1. Clone the repo
-2. Install dependencies:
+## Conclusion 
 
-    ```bash
-    pip install -r requirements.txt
-    jupyter notebook 
+## Future Improvements 
+
+## Ajibike Kazeem Seun 
